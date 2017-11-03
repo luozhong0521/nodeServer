@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luozhong",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^2.0.3",
+    "body-parser": "^1.17.2",
+    "coding-webhook-handler": "^0.6.1",
+    "express": "^4.13.3",
+    "express-session": "^1.15.5",
+    "fstream": "^1.0.11",
+    "qr-image": "^3.2.0",
+    "tar": "^4.0.1",
+    "walk": "^2.3.9"
+  }
+}

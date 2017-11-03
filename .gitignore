@@ -1,0 +1,14 @@
+*.prefs
+*~
+*swp
+.buildpath
+._.DS_Store
+.DS_Store
+.project
+.settings
+docs/.*.m
+.settings/*
+.idea
+/nbproject/*
+/node_modules
+/public/uiFiles/UIManagement
