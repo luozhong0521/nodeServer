@@ -33,6 +33,6 @@ app.get('/', function (req, res) {
     res.render('login');
 });
 
-app.listen(3005, function () {
+app.listen(80, function () {
     console.log("start...");
 });
